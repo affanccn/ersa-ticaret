@@ -48,7 +48,7 @@ export default function FiyatDanismaPage() {
 
           <div className="space-y-3 pt-2">
             <a
-              href="https://wa.me/905525843073?text=Merhaba,%20yedek%20parça%20fiyatı%20öğrenmek%20istiyorum."
+              href="https://wa.me/905317421992?text=Merhaba,%20yedek%20parça%20fiyatı%20öğrenmek%20istiyorum."
               target="_blank"
               rel="noopener noreferrer"
               className="w-full py-4 bg-[#25D366] hover:bg-[#1ea952] text-white font-black rounded-2xl flex items-center justify-center gap-2.5 transition-all shadow-xl shadow-emerald-500/20 active:scale-95 text-sm"
@@ -58,11 +58,11 @@ export default function FiyatDanismaPage() {
             </a>
 
             <a
-              href="tel:+905525843073"
+              href="tel:+905317421992"
               className="w-full py-3.5 bg-slate-900 hover:bg-slate-800 text-white font-bold rounded-2xl flex items-center justify-center gap-2 transition-all shadow-sm text-xs"
             >
               <Phone size={16} />
-              <span>0552 584 30 73 Nolu Telefonu Arayın</span>
+              <span>0 531 742 19 92 Nolu Telefonu Arayın</span>
             </a>
           </div>
 

@@ -36,10 +36,10 @@ export default function HizmetlerPage() {
           Aradığınız parça stoklarımızda olmasa bile geniş tedarik ağımız sayesinde kısa sürede temin ediyoruz. Hemen WhatsApp'tan parça kodunu veya fotoğrafını gönderin.
         </p>
         <div className="flex flex-col sm:flex-row gap-4">
-          <a href="tel:05525843073" className="bg-white text-blue-900 hover:bg-blue-50 px-8 py-3 rounded-xl font-bold flex items-center justify-center gap-2 transition-colors">
-            <PhoneCall size={20} /> 0552 584 30 73
+          <a href="tel:+905317421992" className="bg-white text-blue-900 hover:bg-blue-50 px-8 py-3 rounded-xl font-bold flex items-center justify-center gap-2 transition-colors">
+            <PhoneCall size={20} /> 0 531 742 19 92
           </a>
-          <a href="https://wa.me/905525843073" target="_blank" className="bg-emerald-500 hover:bg-emerald-600 text-white px-8 py-3 rounded-xl font-bold flex items-center justify-center gap-2 transition-colors">
+          <a href="https://wa.me/905317421992" target="_blank" className="bg-emerald-500 hover:bg-emerald-600 text-white px-8 py-3 rounded-xl font-bold flex items-center justify-center gap-2 transition-colors">
             WhatsApp'tan Parça Sor
           </a>
         </div>

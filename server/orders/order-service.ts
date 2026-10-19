@@ -338,7 +338,7 @@ export const orderService = {
         await shippingAdapter.createShipment({
           orderId: order.id,
           recipientName: order.company?.legalName || order.user?.name || 'Alıcı',
-          recipientPhone: order.user?.phone || order.company?.phone || '05525843073',
+          recipientPhone: order.user?.phone || order.company?.phone || '05317421992',
           address: order.address.line1,
           city: order.address.city,
           district: order.address.district || undefined,
@@ -463,7 +463,7 @@ export const orderService = {
       await shippingAdapter.createShipment({
         orderId: order.id,
         recipientName: order.company?.legalName || order.user?.name || 'Alıcı',
-        recipientPhone: order.user?.phone || order.company?.phone || '05525843073',
+        recipientPhone: order.user?.phone || order.company?.phone || '05317421992',
         address: order.address.line1,
         city: order.address.city,
         district: order.address.district || undefined,

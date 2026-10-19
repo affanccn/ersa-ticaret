@@ -28,7 +28,7 @@ export default function ProductDetailClient({ product }: { product: any }) {
   const productSku = product.sku || product.code || 'OEM';
 
   const whatsappMessage = `Merhaba, Ersa Ticaret sitenizden ürün hakkında fiyat ve stok bilgisi almak istiyorum.\n\nÜrün Kodu: ${productSku}\nÜrün Adı: ${productName}\nLink: https://www.ersaticaret.com/urunler/${product.slug}`;
-  const whatsappUrl = `https://wa.me/905525843073?text=${encodeURIComponent(whatsappMessage)}`;
+  const whatsappUrl = `https://wa.me/905317421992?text=${encodeURIComponent(whatsappMessage)}`;
   const waLink = whatsappUrl;
 
   return (
@@ -157,11 +157,11 @@ export default function ProductDetailClient({ product }: { product: any }) {
 
               {/* Hızlı Telefon Arama Butonu */}
               <a
-                href="tel:+905525843073"
+                href="tel:+905317421992"
                 className="w-full sm:w-auto py-4 px-6 bg-slate-900 hover:bg-slate-800 text-white font-bold rounded-2xl flex items-center justify-center gap-2 transition-all shadow-lg shadow-slate-900/10 active:scale-98 shrink-0 text-sm"
               >
                 <Phone size={18} />
-                <span>0552 584 30 73</span>
+                <span>0 531 742 19 92</span>
               </a>
             </div>
 

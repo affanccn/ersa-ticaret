@@ -28,7 +28,7 @@ export default function NotFound() {
         
         {/* WhatsApp'a Kurtarma Aksiyonu */}
         <a 
-          href="https://wa.me/905525843073?text=Merhaba,%20sitenizde%20aradığım%20bir%20parçayı%20bulamadım.%20Stok%20sorgulamak%20istiyorum."
+          href="https://wa.me/905317421992?text=Merhaba,%20sitenizde%20aradığım%20bir%20parçayı%20bulamadım.%20Stok%20sorgulamak%20istiyorum."
           target="_blank"
           rel="noopener noreferrer"
           className="w-full sm:w-auto px-8 py-4 bg-emerald-500 hover:bg-emerald-600 text-white font-bold rounded-2xl flex items-center justify-center gap-3 transition-all duration-300 shadow-lg shadow-emerald-500/30 active:scale-95"

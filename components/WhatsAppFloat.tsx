@@ -4,7 +4,7 @@ import { useState } from 'react';
 
 export default function WhatsAppFloat() {
   const [isOpen, setIsOpen] = useState(false);
-  const waUrl = `https://wa.me/905525843073?text=${encodeURIComponent(
+  const waUrl = `https://wa.me/905317421992?text=${encodeURIComponent(
     'Merhaba Ersa Ticaret, yedek parça ve teknik danışma için bilgi almak istiyorum.'
   )}`;
 

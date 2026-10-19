@@ -36,7 +36,7 @@ const DEMO_FALLBACK_ACCOUNTS: Record<string, any> = {
       id: 'demo-admin-id',
       email: 'admin@ersaticaret.com',
       name: 'Ersa Sistem Yöneticisi',
-      phone: '05525843073',
+      phone: '05317421992',
       role: 'ADMIN',
       company: null,
     },

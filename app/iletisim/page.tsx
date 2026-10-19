@@ -24,7 +24,7 @@ export default function IletisimPage() {
     waMessage += `━━━━━━━━━━━━━━━━━━━━\n`;
     waMessage += `Bu mesaj ersaticaret.com iletişim formundan gönderilmiştir.`;
 
-    const whatsappUrl = `https://wa.me/905525843073?text=${encodeURIComponent(waMessage)}`;
+    const whatsappUrl = `https://wa.me/905317421992?text=${encodeURIComponent(waMessage)}`;
     window.open(whatsappUrl, '_blank');
     
     setSubmitted(true);
@@ -75,7 +75,7 @@ export default function IletisimPage() {
                   </div>
                   <div>
                     <p className="text-sm font-semibold text-slate-500 uppercase tracking-wider mb-1">Telefon</p>
-                    <a href="tel:+905525843073" className="text-lg font-bold text-slate-800 hover:text-blue-600 transition-colors">+90 531 742 19 92</a>
+                    <a href="tel:+905317421992" className="text-lg font-bold text-slate-800 hover:text-blue-600 transition-colors">0 531 742 19 92</a>
                   </div>
                 </div>
 
@@ -115,7 +115,7 @@ export default function IletisimPage() {
 
               {/* WhatsApp Butonu */}
               <a 
-                href="https://wa.me/905525843073?text=Merhaba,%20bilgi%20almak%20istiyorum."
+                href="https://wa.me/905317421992?text=Merhaba,%20bilgi%20almak%20istiyorum."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mt-8 w-full py-4 bg-emerald-500 hover:bg-emerald-600 text-white font-bold rounded-xl flex items-center justify-center gap-2 transition-all duration-300 shadow-lg shadow-emerald-500/30 active:scale-95"

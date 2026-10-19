@@ -28,7 +28,7 @@ export default function SepetPage() {
 
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-2">
           <a
-            href="https://wa.me/905525843073?text=Merhaba,%20parça%20fiyatı%20ve%20stok%20bilgisi%20almak%20istiyorum."
+            href="https://wa.me/905317421992?text=Merhaba,%20parça%20fiyatı%20ve%20stok%20bilgisi%20almak%20istiyorum."
             target="_blank"
             rel="noopener noreferrer"
             className="p-4 bg-[#25D366] hover:bg-[#1ea952] text-white font-black rounded-2xl flex items-center justify-center gap-2 transition-all shadow-lg shadow-emerald-500/20 active:scale-95 text-sm"
@@ -38,11 +38,11 @@ export default function SepetPage() {
           </a>
 
           <a
-            href="tel:+905525843073"
+            href="tel:+905317421992"
             className="p-4 bg-slate-900 hover:bg-slate-800 text-white font-bold rounded-2xl flex items-center justify-center gap-2 transition-all shadow-sm text-sm"
           >
             <Phone size={18} className="text-blue-400" />
-            <span>0552 584 30 73</span>
+            <span>0 531 742 19 92</span>
           </a>
         </div>
 

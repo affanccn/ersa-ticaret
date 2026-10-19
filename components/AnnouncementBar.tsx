@@ -27,12 +27,12 @@ export default function AnnouncementBar() {
         {/* Sol: Telefon ve Saat */}
         <div className="flex items-center gap-4 sm:gap-6 text-slate-400 font-medium">
           <a 
-            href="tel:+905525843073" 
+            href="tel:+905317421992"
             className="flex items-center gap-1.5 hover:text-white transition-colors"
           >
             <Phone size={13} className="text-blue-400" />
             <span className="hidden sm:inline">Fiyat &amp; Parça Hattı:</span>
-            <span className="text-white font-bold">0552 584 30 73</span>
+            <span className="text-white font-bold">0 531 742 19 92</span>
           </a>
           <span className="hidden lg:flex items-center gap-2">
             <Clock size={14} className="text-emerald-400" />

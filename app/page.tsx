@@ -133,7 +133,7 @@ export default async function Home() {
             </Link>
 
             <a
-              href="https://wa.me/905525843073?text=Merhaba,%20parça%20fiyatı%20ve%20stok%20bilgisi%20almak%20istiyorum."
+              href="https://wa.me/905317421992?text=Merhaba,%20parça%20fiyatı%20ve%20stok%20bilgisi%20almak%20istiyorum."
               target="_blank"
               rel="noopener noreferrer"
               className="w-full sm:w-auto px-8 py-4 bg-[#25D366] hover:bg-[#1ea952] text-white font-extrabold rounded-2xl flex items-center justify-center gap-2 transition-all shadow-xl shadow-emerald-500/25 active:scale-95 text-base"
@@ -234,7 +234,7 @@ export default async function Home() {
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
             <a
-              href="https://wa.me/905525843073?text=Merhaba,%20parça%20fiyatı%20sormak%20istiyorum."
+              href="https://wa.me/905317421992?text=Merhaba,%20parça%20fiyatı%20sormak%20istiyorum."
               target="_blank"
               rel="noopener noreferrer"
               className="w-full sm:w-auto px-8 py-4 bg-white text-blue-800 font-black rounded-2xl flex items-center justify-center gap-2 shadow-xl active:scale-95 text-xs"
@@ -242,10 +242,10 @@ export default async function Home() {
               <MessageCircle size={18} className="text-emerald-600" /> WhatsApp Destek &amp; Fiyat Hattı
             </a>
             <a
-              href="tel:+905525843073"
+              href="tel:+905317421992"
               className="w-full sm:w-auto px-8 py-4 bg-blue-800/80 hover:bg-blue-800 text-white font-black rounded-2xl flex items-center justify-center gap-2 border border-blue-400/40 text-xs"
             >
-              <Phone size={18} /> 0531 742 19 92
+              <Phone size={18} /> 0 531 742 19 92
             </a>
           </div>
         </div>

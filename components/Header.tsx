@@ -87,11 +87,11 @@ export default function Header() {
           {/* Sol: İletişim Bilgileri */}
           <div className="flex items-center gap-4">
             <div className="flex items-center gap-3 text-slate-400">
-              <a href="tel:+905525843073" className="hover:text-white flex items-center gap-1">
-                <Phone size={12} className="text-blue-400" /> 0552 584 30 73
+              <a href="tel:+905317421992" className="hover:text-white flex items-center gap-1">
+                <Phone size={12} className="text-blue-400" /> 0 531 742 19 92
               </a>
               <span className="hidden md:inline text-slate-600">|</span>
-              <a href="https://wa.me/905525843073" target="_blank" rel="noopener noreferrer" className="hidden md:flex items-center gap-1 hover:text-emerald-400">
+              <a href="https://wa.me/905317421992" target="_blank" rel="noopener noreferrer" className="hidden md:flex items-center gap-1 hover:text-emerald-400">
                 <MessageCircle size={12} className="text-emerald-400" /> WhatsApp Fiyat &amp; Parça Hattı
               </a>
             </div>
@@ -220,7 +220,7 @@ export default function Header() {
         {/* SAĞ AKSİYONLAR: WHATSAPP FİYAT HATTI */}
         <div className="flex items-center gap-3">
           <a
-            href="https://wa.me/905525843073?text=Merhaba,%20parça%20fiyatı%20ve%20stok%20sorgulamak%20istiyorum."
+            href="https://wa.me/905317421992?text=Merhaba,%20parça%20fiyatı%20ve%20stok%20sorgulamak%20istiyorum."
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-4 py-2.5 bg-[#25D366] hover:bg-[#1ea952] text-white rounded-xl transition-all shadow-lg shadow-emerald-500/20 active:scale-95 text-xs font-bold"
@@ -303,10 +303,10 @@ export default function Header() {
           {/* Hızlı Telefon Bilgisi */}
           <div className="flex items-center gap-3 text-xs font-bold text-slate-300">
             <a
-              href="tel:+905525843073"
+              href="tel:+905317421992"
               className="text-amber-400 hover:text-amber-300 flex items-center gap-1.5 transition-colors"
             >
-              <Phone size={13} /> 0552 584 30 73
+              <Phone size={13} /> 0 531 742 19 92
             </a>
           </div>
 
@@ -337,7 +337,7 @@ export default function Header() {
 
           <div className="pt-3 border-t border-slate-800 space-y-2">
             <a
-              href="https://wa.me/905525843073?text=Merhaba,%20parça%20fiyatı%20ve%20stok%20sorgulamak%20istiyorum."
+              href="https://wa.me/905317421992?text=Merhaba,%20parça%20fiyatı%20ve%20stok%20sorgulamak%20istiyorum."
               target="_blank"
               rel="noopener noreferrer"
               className="w-full py-3 bg-[#25D366] hover:bg-[#1ea952] text-white font-bold rounded-xl flex items-center justify-center gap-2 text-sm"
@@ -345,10 +345,10 @@ export default function Header() {
               <MessageCircle size={18} /> WhatsApp ile Fiyat Sor
             </a>
             <a
-              href="tel:+905525843073"
+              href="tel:+905317421992"
               className="w-full py-3 bg-slate-800 hover:bg-slate-700 text-white font-bold rounded-xl flex items-center justify-center gap-2 text-sm border border-slate-700"
             >
-              <Phone size={16} className="text-blue-400" /> 0552 584 30 73
+              <Phone size={16} className="text-blue-400" /> 0 531 742 19 92
             </a>
           </div>
         </div>

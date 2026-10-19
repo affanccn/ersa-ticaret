@@ -79,7 +79,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     image: 'https://www.ersaticaret.com/vitrin.png',
     '@id': 'https://www.ersaticaret.com/#store',
     url: 'https://www.ersaticaret.com',
-    telephone: '+905525843073',
+    telephone: '+905317421992',
     priceRange: '₺₺',
     address: {
       '@type': 'PostalAddress',
@@ -102,7 +102,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         closes: '19:00',
       },
     ],
-    sameAs: ['https://wa.me/905525843073'],
+    sameAs: ['https://wa.me/905317421992'],
   };
 
   return (

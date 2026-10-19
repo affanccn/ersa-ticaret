@@ -67,7 +67,7 @@ export const notificationService = {
           </div>
 
           <div style="text-align: center; padding-top: 20px; border-top: 1px solid #e2e8f0; color: #94a3b8; font-size: 12px;">
-            Ersa Ticaret Isı ve Soğutma Sistemleri — Müşteri Hizmetleri: 0552 584 30 73
+            Ersa Ticaret Isı ve Soğutma Sistemleri — Müşteri Hizmetleri: 0 531 742 19 92
           </div>
         </div>
       `;
@@ -90,7 +90,7 @@ export const notificationService = {
    * WhatsApp Bildirim Mesajı Üretir ve Gönderir
    */
   async sendOrderWhatsApp(data: OrderNotificationData, event: 'CREATED' | 'APPROVED' | 'REJECTED' | 'SHIPPED') {
-    const adminPhone = '905525843073';
+    const adminPhone = '905317421992';
     const customerPhone = (data.recipientPhone || '905321112233').replace(/\D/g, '');
 
     let message = '';

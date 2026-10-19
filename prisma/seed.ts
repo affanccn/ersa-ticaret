@@ -105,7 +105,7 @@ async function main() {
       email: 'admin@ersaticaret.com',
       passwordHash: adminPassword,
       name: 'Ersa Yönetici',
-      phone: '05525843073',
+      phone: '05317421992',
       role: 'ADMIN',
       status: 'ACTIVE',
       emailVerified: new Date(),

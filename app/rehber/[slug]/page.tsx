@@ -56,7 +56,7 @@ export default function RehberDetayPage({ params }: { params: { slug: string } }
   const otherPosts = blogPosts.filter((p) => p.slug !== post.slug).slice(0, 3);
 
   const whatsappMessage = `Merhaba, Ersa Ticaret sitenizdeki "${post.title}" başlıklı rehberi okudum. Teknik destek ve parça durumu hakkında bilgi almak istiyorum.\n\nRehber Linki: https://www.ersaticaret.com/rehber/${post.slug}`;
-  const whatsappUrl = `https://wa.me/905525843073?text=${encodeURIComponent(whatsappMessage)}`;
+  const whatsappUrl = `https://wa.me/905317421992?text=${encodeURIComponent(whatsappMessage)}`;
 
   return (
     <div className="min-h-screen bg-slate-50 flex flex-col pb-20">

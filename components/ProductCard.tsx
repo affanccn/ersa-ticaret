@@ -17,7 +17,7 @@ export default function ProductCard({ product }: { product: any }) {
   const productName = product.name || product.title || 'Yedek Parça';
   const productSku = product.sku || product.code || 'OEM';
 
-  const waLink = `https://wa.me/905525843073?text=${encodeURIComponent(
+  const waLink = `https://wa.me/905317421992?text=${encodeURIComponent(
     `Merhaba, Ersa Ticaret sitenizden "${productName}" (OEM: ${productSku}) parçası hakkında fiyat ve stok bilgisi almak istiyorum.`
   )}`;
 
