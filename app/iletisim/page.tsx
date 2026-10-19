@@ -75,7 +75,7 @@ export default function IletisimPage() {
                   </div>
                   <div>
                     <p className="text-sm font-semibold text-slate-500 uppercase tracking-wider mb-1">Telefon</p>
-                    <a href="tel:+905525843073" className="text-lg font-bold text-slate-800 hover:text-blue-600 transition-colors">+90 552 584 30 73</a>
+                    <a href="tel:+905525843073" className="text-lg font-bold text-slate-800 hover:text-blue-600 transition-colors">+90 531 742 19 92</a>
                   </div>
                 </div>
 
