@@ -245,7 +245,7 @@ export default async function Home() {
               href="tel:+905525843073"
               className="w-full sm:w-auto px-8 py-4 bg-blue-800/80 hover:bg-blue-800 text-white font-black rounded-2xl flex items-center justify-center gap-2 border border-blue-400/40 text-xs"
             >
-              <Phone size={18} /> 0552 584 30 73
+              <Phone size={18} /> 0531 742 19 92
             </a>
           </div>
         </div>
